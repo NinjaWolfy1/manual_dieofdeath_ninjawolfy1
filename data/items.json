@@ -1,0 +1,186 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Adrenaline",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "BonusPad",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Caretaker",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Revolver",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Cloak",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Bugle",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Punch",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Hotdog",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Banana",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Block",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Reroll",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Dash",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Pie",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Taunt",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Flashlight",
+            "category": [
+                "Abilities","Survivor Abilities"
+            ],
+            "progression + useful": true
+        },
+        {
+            "name": "Pursuer",
+            "category": [
+                "Killers"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Artful",
+            "category": [
+                "Killers"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Badware",
+            "category": [
+                "Killers"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Killdroid",
+            "category": [
+                "Killers"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Harken",
+            "category": [
+                "Killers"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Progressive Pursuer",
+            "category": [
+                "Killers", "Progressive Killer"
+            ],
+            "count": 4,
+            "progression + useful": true
+        },
+        {
+            "name": "Progressive Artful",
+            "category": [
+                "Killers", "Progressive Killer"
+            ],
+            "count": 4,
+            "progression + useful": true
+        },
+        {
+            "name": "Progressive Badware",
+            "category": [
+                "Killers", "Progressive Killer"
+            ],
+            "count": 4,
+            "progression + useful": true
+        },
+        {
+            "name": "Progressive Killdroid",
+            "category": [
+                "Killers", "Progressive Killer"
+            ],
+            "count": 4,
+            "progression + useful": true
+        },
+        {
+            "name": "Progressive Harken",
+            "category": [
+                "Killers", "Progressive Killer"
+            ],
+            "count": 4,
+            "progression + useful": true
+        },
+        
+    ]
+}
