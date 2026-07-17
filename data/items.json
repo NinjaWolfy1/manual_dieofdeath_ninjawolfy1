@@ -140,47 +140,6 @@
                 "Killers"
             ],
             "progression": true
-        },
-        {
-            "name": "Progressive Pursuer",
-            "category": [
-                "Killers", "Progressive Killer"
-            ],
-            "count": 4,
-            "progression + useful": true
-        },
-        {
-            "name": "Progressive Artful",
-            "category": [
-                "Killers", "Progressive Killer"
-            ],
-            "count": 4,
-            "progression + useful": true
-        },
-        {
-            "name": "Progressive Badware",
-            "category": [
-                "Killers", "Progressive Killer"
-            ],
-            "count": 4,
-            "progression + useful": true
-        },
-        {
-            "name": "Progressive Killdroid",
-            "category": [
-                "Killers", "Progressive Killer"
-            ],
-            "count": 4,
-            "progression + useful": true
-        },
-        {
-            "name": "Progressive Harken",
-            "category": [
-                "Killers", "Progressive Killer"
-            ],
-            "count": 4,
-            "progression + useful": true
-        },
-        
+        }
     ]
 }
