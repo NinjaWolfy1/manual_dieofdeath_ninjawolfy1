@@ -2,286 +2,382 @@
 	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
     "data": [
         {
-            "name": "Example_Range decide the amount of items required for this location",
-            "requires": "{OptionCount(Item Name for OptionCount Example, Example_Range)}"
+            "name": "Purchase Artful",
+            "category": [
+                "Shop", "Killers"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Ryu",
-            "category": ["Starter Team", "Left Side"],
-            "region": "ExampleRegion"
+            "name": "Purchase Badware",
+            "category": [
+                "Shop", "Killers"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Chun-Li",
-            "category": ["Starter Team", "Left Side"],
-            "requires": "|Chun-Li| or {YamlCompare(Example_Choice == 1)}"
+            "name": "Purchase Killdroid",
+            "category": [
+                "Shop", "Killers"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Akuma",
-            "category": ["Starter Team", "Left Side"],
-            "requires": "|Akuma| or {YamlCompare(Example_Toggle != True)}"
-        },
-
-        {
-            "name": "Beat the Game - Jill",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Jill| and {ItemValue(star:5)}"
+            "name": "Purchase Harken",
+            "category": [
+                "Shop", "Killers"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Shuma-Gorath",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Shuma-Gorath|",
-            "hint_entrance": "Unlock Shuma-Gorath"
+            "name": "I'm Very Hungry!: Heal 80 HP with Hotdog",
+            "category": [
+                "Achievements", "Fun"
+            ],
+            "requires": "|Hotdog|"
         },
         {
-            "name": "Beat the Game - Nemesis T-Type",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Nemesis T-Type|"
+            "name": "Violent Golf: Start Golf Time",
+            "category": [
+                "Achievements", "Fun", "Special Round"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Firebrand",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Firebrand|"
+            "name": "Laundry List: Complete a task",
+            "category": [
+                "Achievements", "Fun"
+            ],
+            "requires": "|@Survivor Abilities:1|"
         },
         {
-            "name": "Beat the Game - Strider Hiryu",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Strider Hiryu|"
+            "name": "I'm Your Biggest Fan: KILL YOURSELF",
+            "category": [
+                "Achievements", "Fun"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Phoenix Wright",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Phoenix Wright|"
+            "name": "Lifesaver: Heal someone below 15 HP",
+            "category": [
+                "Achievements", "Fun"
+            ],
+            "requires": "|Caretaker| OR |Reroll|"
         },
         {
-            "name": "Beat the Game - Nova",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Nova|"
+            "name": "Studious Scholar: Spend 10 Minutes in the Library",
+            "category": [
+                "Achievements", "Fun"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Ghost Rider",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Ghost Rider|"
+            "name": "Best of Both Worlds: Pick a Synergy Deck",
+            "category": [
+                "Achievements", "Fun"
+            ],
+            "requires": "(|Caretaker| AND (|BonusPad| OR |Revolver|)) OR (|Taunt| AND |Bugle|) OR (|Hotdog| AND |Pie|)"
         },
         {
-            "name": "Beat the Game - Hawkeye",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Hawkeye|"
+            "name": "Karma Called: Emote and get killed",
+            "category": [
+                "Achievements", "Fun"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Doctor Strange",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Doctor Strange|"
+            "name": "Never-Ending Shift",
+            "category": [
+                "Achievements", "Completion"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Chris",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Chris|"
+            "name": "I'm Just Saiyan': Win as the One Bounce",
+            "category": [
+                "Achievements", "Completion", "Special Round", "Hard"
+            ],
+            "requires": "|@Survivor Abilities:10|"
         },
         {
-            "name": "Beat the Game - Arthur",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Arthur|"
+            "name": "Here Lies: You",
+            "category": [
+                "Achievements", "Completion"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Frank West",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Frank West|"
+            "name": "Stealing The Spotlight: Win Showtime LMS",
+            "category": [
+                "Achievements", "Completion"
+            ],
+            "requires": "|Artful| OR |Banana Peel|"
         },
         {
-            "name": "Beat the Game - Vergil",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Vergil|"
+            "name": "Double Or Nothing: Survive Double Trouble LMS",
+            "category": [
+                "Achievements", "Completion", "Special Round", "Hard"
+            ],
+            "requires": "|@Survivor Abilities:10|"
         },
         {
-            "name": "Beat the Game - Iron Fist",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Iron Fist|"
+            "name": "Golf Enthusiast",
+            "category": [
+                "Achievements", "Completion", "Special Round"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Rocket Raccoon",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Rocket Raccoon|"
+            "name": "Survivor's Guilt: Win Careless LMS as Caretaker",
+            "category": [
+                "Achievements", "Completion"
+            ],
+            "requires": "|Caretaker|"
         },
         {
-            "name": "Beat the Game - Captain America",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Captain America|"
+            "name": "Fear And Hunger: Win Sightbreaker LMS",
+            "category": [
+                "Achievements", "Completion"
+            ],
+            "requires": "|Flashlight| OR |Pursuer|"
         },
         {
-            "name": "Beat the Game - Dormammu",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Dormammu|"
+            "name": "High Noon: Win Vigilante Shootdown LMS",
+            "category": [
+                "Achievements", "Completion"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Wesker",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Wesker|"
+            "name": "Hot Stuff: Win FryBomber",
+            "category": [
+                "Achievements", "Completion", "Special Round"
+            ],
+            "requires": "|Swing| AND |Throw|"
         },
         {
-            "name": "Beat the Game - Zero",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Zero|"
+            "name": "Born Again: Rebirth Once on Sauce Clicker",
+            "category": [
+                "Achievements", "Completion"
+            ],
+            "requires": "{OptAll(|Progressive Rebirth|)}"
         },
         {
-            "name": "Beat the Game - Dante",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Dante|"
+            "name": "Biggest Threat In The Room",
+            "category": [
+                "Achievements", "Completion", "Special Round"
+            ],
+            "requires": "|@Killers:1|"
         },
         {
-            "name": "Beat the Game - Deadpool",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Deadpool| or {YamlEnabled(free_deadpool)}"
+            "name": "Humble Beginnings: Obtain 10 Kills Total",
+            "category": [
+                "Achievements", "Completion"
+            ],
+            "requires": "|@Killers:1|"
         },
         {
-            "name": "Beat the Game - Wolverine",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Wolverine|"
+            "name": "The First Of Many: Get Your First Kill",
+            "category": [
+                "Achievements", "Completion"
+            ],
+            "requires": "|@Killers:1|"
         },
         {
-            "name": "Beat the Game - Iron Man",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Iron Man|"
+            "name": "Little Spender: Spend 1000 Points",
+            "category": [
+                "Achievements", "Completion"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Doctor Doom",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Doctor Doom|"
+            "name": "Still Standing",
+            "category": [
+                "Achievements", "Completion"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Morrigan",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Morrigan|"
+            "name": "Two Birds, One Stone!: Get a Double Kill",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": "|Killdroid|"
         },
         {
-            "name": "Beat the Game - Tron",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Tron|"
+            "name": "I'm Not Afraid Of You Anymore!: Stun the Killer 7 Times",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": "|Revolver| OR |Punch|"
         },
         {
-            "name": "Beat the Game - Trish",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Trish|"
+            "name": "Born, Again?: Rebirth 5 Times on Sauce Simulator",
+            "category": [
+                "Achievements", "Challenge", "Arcade"
+            ],
+            "requires": "{OptAll(|Progressive Rebirth:5|)}"
         },
         {
-            "name": "Beat the Game - X-23",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|X-23|"
+            "name": "3-POINTER",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": "|Killdroid|"
         },
         {
-            "name": "Beat the Game - Storm",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Storm|"
+            "name": "Slaughterhouse",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": "|@Killers:1|"
         },
         {
-            "name": "Beat the Game - Thor",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Thor|"
+            "name": "Help Wanted: Beat 4/25",
+            "category": [
+                "Achievements", "Challenge", "Arcade"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - M.O.D.O.K.",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|M.O.D.O.K.|"
+            "name": "Lucid Nightmare: Block Evil Scary",
+            "category": [
+                "Achievements", "Challenge", "Special Round"
+            ],
+            "requires": "|Block|"
         },
         {
-            "name": "Beat the Game - Felicia",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Felicia|"
+            "name": "Spec-Tater",
+            "category": [
+                "Achievements", "Challenge", "Special Round", "Hard"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Spencer",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Spencer|"
+            "name": "Combat Medic: Heal Teammates 30 Times in a Match",
+            "category": [
+                "Achievements", "Challenge", "Hard"
+            ],
+            "requires": "|Caretaker| AND |BonusPad|"
         },
         {
-            "name": "Beat the Game - Viewtiful Joe",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Viewtiful Joe|"
+            "name": "Albatross: Complete a Golf Room in 10 Seconds",
+            "category": [
+                "Achievements", "Challenge", "Special Round"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Spider-Man",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Spider-Man|",
-            "prehint": true
+            "name": "Mulligan: Complete a Golf Room without Hit",
+            "category": [
+                "Achievements", "Challenge", "Special Round"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Sentinel",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Sentinel|"
+            "name": "Tis But A Scratch: Survive Without Taking Damage",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Hulk",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Hulk|"
+            "name": "Die Of Death Any% WR: Die Within 20 Seconds",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Super-Skrull",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Super-Skrull|"
+            "name": "Deep Dive: Win with less than 20 HP & 30 Oxygen",
+            "category": [
+                "Achievements", "Challenge", "Hard"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Hsien-Ko",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Hsien-Ko|"
+            "name": "Every DoD Youtuber Be Like: Serverwipe a 5+ Player Server Without M1",
+            "category": [
+                "Achievements", "Challenge", "Hard"
+            ],
+            "requires": "|Harken|"
         },
         {
-            "name": "Beat the Game - Haggar",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Haggar|"
+            "name": "For Those We Lost Along The Way",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - C. Viper",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|C. Viper|"
+            "name": "Give Em' Hell!: Buff 5 Teammates with Bugle at Once",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": "|Bugle|"
         },
         {
-            "name": "Beat the Game - Amaterasu",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Amaterasu|"
+            "name": "Meet The Sniper: Hit a Projectile from 125 Studs away",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": "|Revolver| OR |Killdroid|"
         },
         {
-            "name": "Beat the Game - Phoenix",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Phoenix|"
+            "name": "Teetering On The Edge Of Life: Win at 1 HP",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - Magneto",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Magneto|"
+            "name": "Participation Trophy: Survive Without Abilities",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": ""
         },
         {
-            "name": "Beat the Game - She-Hulk",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|She-Hulk|"
+            "name": "The Best Defense...: Block 6 times in a match",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": "|Block|"
         },
         {
-            "name": "Beat the Game - Taskmaster",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Taskmaster|"
-        },
-
-        {
-            "name": "We Saved the World!",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "|Marvel event| and |Capcom event|"
+            "name": "Luck of the Draw: Reroll 5 times in a match",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": "|Reroll|"
         },
         {
-            "name": "Marvel%",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "|Marvel event|"
+            "name": "Mann Vs Machine: Have 4 Computers Active at Once",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": "|Badware|"
         },
         {
-            "name": "Capcom%",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "|Capcom event|"
+            "name": "Don't Call It A Comeback!: Block a Lethal Blow",
+            "category": [
+                "Achievements", "Challenge"
+            ],
+            "requires": "|Block|"
         },
         {
-            "name": "Stars%",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "{ItemValue(star:10)} and {ItemValue(coins:10)}"
+            "name": "My spine hurts every night",
+            "category": [
+                "Achievements", "Secret"
+            ],
+            "requires": "|Killdroid|"
+        },
+        {
+            "name": "KABOOOM!",
+            "category": [
+                "Achievements", "Secret"
+            ],
+            "requires": "|Revolver| OR |Killdroid|"
         }
     ]
 }
