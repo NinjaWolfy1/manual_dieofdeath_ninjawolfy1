@@ -51,7 +51,7 @@
             "requires": "|@Survivor Abilities:1|"
         },
         {
-            "name": "I'm Your Biggest Fan: KILL YOURSELF",
+            "name": "I'm Your Biggest Fan: Give the Lobby Fan a Hug",
             "category": [
                 "Achievements", "Fun"
             ],
@@ -121,7 +121,7 @@
             "requires": "|@Survivor Abilities:10|"
         },
         {
-            "name": "Golf Enthusiast",
+            "name": "Golf Enthusiast: Win Golf",
             "category": [
                 "Achievements", "Completion", "Special Round"
             ],
@@ -378,6 +378,384 @@
                 "Achievements", "Secret"
             ],
             "requires": "|Revolver| OR |Killdroid|"
+        },
+        {
+            "name": "Win as Pursuer",
+            "category": [
+                "Victory Checks", "Killer Checks"
+            ],
+            "requires": "|Pursuer|"
+        },
+        {
+            "name": "Win as Artful",
+            "category": [
+                "Victory Checks", "Killer Checks"
+            ],
+            "requires": "|Artful|"
+        },
+        {
+            "name": "Win as Badware",
+            "category": [
+                "Victory Checks", "Killer Checks"
+            ],
+            "requires": "|Badware|"
+        },
+        {
+            "name": "Win as Killdroid",
+            "category": [
+                "Victory Checks", "Killer Checks"
+            ],
+            "requires": "|Killdroid|"
+        },
+        {
+            "name": "Win as Harken",
+            "category": [
+                "Victory Checks", "Killer Checks"
+            ],
+            "requires": "|Harken|"
+        },
+        {
+            "name": "Win with Adrenaline",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Adrenaline|"
+        },
+        {
+            "name": "Win with BonusPad",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|BonusPad|"
+        },
+        {
+            "name": "Win with Caretaker",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Caretaker|"
+        },
+        {
+            "name": "Win with Revolver",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Revolver|"
+        },
+        {
+            "name": "Win with Cloak",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Cloak|"
+        },
+        {
+            "name": "Win with Bugle",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Bugle|"
+        },
+        {
+            "name": "Win with Punch",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Punch|"
+        },
+        {
+            "name": "Win with Hotdog",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Hotdog|"
+        },
+        {
+            "name": "Win with Banana Peel",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Banana Peel|"
+        },
+        {
+            "name": "Win with Block",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Block|"
+        },
+        {
+            "name": "Win with Reroll",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Reroll|"
+        },
+        {
+            "name": "Win with Dash",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Dash|"
+        },
+        {
+            "name": "Win with Pie",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Pie|"
+        },
+        {
+            "name": "Win with Taunt",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Taunt|"
+        },
+        {
+            "name": "Win with Flashlight",
+            "category": [
+                "Victory Checks", "Civilian Checks"
+            ],
+            "requires": "|Flashlight|"
+        },
+        {
+            "name": "Win as Carepad",
+            "category": [
+                "Victory Checks", "Civilian Checks", "Synergy Checks"
+            ],
+            "requires": "|Caretaker| AND |BonusPad|"
+        },
+        {
+            "name": "Win as Loveshot",
+            "category": [
+                "Victory Checks", "Civilian Checks", "Synergy Checks"
+            ],
+            "requires": "|Caretaker| AND |Revolver|"
+        },
+        {
+            "name": "Win as Noisemaker",
+            "category": [
+                "Victory Checks", "Civilian Checks", "Synergy Checks"
+            ],
+            "requires": "|Bugle| AND |Taunt|"
+        },
+        {
+            "name": "Win as Sweet Tooth",
+            "category": [
+                "Victory Checks", "Civilian Checks", "Synergy Checks"
+            ],
+            "requires": "|Hotdog| AND |Pie|"
+        },
+        {
+            "name": "S-Rank as Pursuer",
+            "category": [
+                "S-Rank", "Killer Checks"
+            ],
+            "requires": "|Pursuer|"
+        },
+        {
+            "name": "S-Rank as Artful",
+            "category": [
+                "S-Rank", "Killer Checks"
+            ],
+            "requires": "|Artful|"
+        },
+        {
+            "name": "S-Rank as Badware",
+            "category": [
+                "S-Rank", "Killer Checks"
+            ],
+            "requires": "|Badware|"
+        },
+        {
+            "name": "S-Rank as Killdroid",
+            "category": [
+                "S-Rank", "Killer Checks"
+            ],
+            "requires": "|Killdroid|"
+        },
+        {
+            "name": "S-Rank as Harken",
+            "category": [
+                "S-Rank", "Killer Checks"
+            ],
+            "requires": "|Harken|"
+        },
+        {
+            "name": "S-Rank with Adrenaline",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Adrenaline|"
+        },
+        {
+            "name": "S-Rank with BonusPad",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |BonusPad|"
+        },
+        {
+            "name": "S-Rank with Caretaker",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Caretaker|"
+        },
+        {
+            "name": "S-Rank with Revolver",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Revolver|"
+        },
+        {
+            "name": "S-Rank with Cloak",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Cloak|"
+        },
+        {
+            "name": "S-Rank with Bugle",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Bugle|"
+        },
+        {
+            "name": "S-Rank with Punch",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Punch|"
+        },
+        {
+            "name": "S-Rank with Hotdog",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Hotdog|"
+        },
+        {
+            "name": "S-Rank with Banana Peel",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Banana Peel|"
+        },
+        {
+            "name": "S-Rank with Block",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Block|"
+        },
+        {
+            "name": "S-Rank with Reroll",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Reroll|"
+        },
+        {
+            "name": "S-Rank with Dash",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Dash|"
+        },
+        {
+            "name": "S-Rank with Pie",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Pie|"
+        },
+        {
+            "name": "S-Rank with Taunt",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Taunt|"
+        },
+        {
+            "name": "S-Rank with Flashlight",
+            "category": [
+                "S-Rank", "Civilian Checks"
+            ],
+            "requires": "|@Survivor Abilities:5| AND |Flashlight|"
+        },
+        {
+            "name": "S-Rank as Carepad",
+            "category": [
+                "S-Rank", "Civilian Checks", "Synergy Checks"
+            ],
+            "requires": "|Caretaker| AND |BonusPad|"
+        },
+        {
+            "name": "S-Rank as Loveshot",
+            "category": [
+                "S-Rank", "Civilian Checks", "Synergy Checks"
+            ],
+            "requires": "|Caretaker| AND |Revolver|"
+        },
+        {
+            "name": "S-Rank as Noisemaker",
+            "category": [
+                "S-Rank", "Civilian Checks", "Synergy Checks"
+            ],
+            "requires": "|Bugle| AND |Taunt|"
+        },
+        {
+            "name": "S-Rank as Sweet Tooth",
+            "category": [
+                "S-Rank", "Civilian Checks", "Synergy Checks"
+            ],
+            "requires": "|Hotdog| AND |Pie|"
+        },
+        {
+            "name": "Adrenaline: Escape a chase with Adrenaline",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Adrenaline|"
+        },
+        {
+            "name": "Adrenaline: Buff teammates with Adrenaline",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Adrenaline|"
+        },
+        {
+            "name": "BonusPad: Get the Killer to break your Bonus Pad",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|BonusPad|"
+        },
+        {
+            "name": "BonusPad: Speed up Teammates with your Bonus Pad",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|BonusPad|"
+        },
+        {
+            "name": "Caretaker: ",?
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Caretaker|"
+        },
+        {
+            "name": "",
+            "category": [
+                "Tasks"
+            ],
+            "requires": ""
         }
     ]
 }
