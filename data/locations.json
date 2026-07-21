@@ -744,18 +744,102 @@
             "requires": "|BonusPad|"
         },
         {
-            "name": "Caretaker: ",?
+            "name": "Caretaker: Heal your teammates",
             "category": [
                 "Tasks"
             ],
             "requires": "|Caretaker|"
         },
         {
-            "name": "",
+            "name": "Revolver: Shoot the killer with Revolver",
             "category": [
                 "Tasks"
             ],
-            "requires": ""
+            "requires": "|Revolver|"
+        },
+        {
+            "name": "Cloak: Cloak near the killer and don't get hit for its duration",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Cloak|"
+        },
+        {
+            "name": "Bugle: Buff your teammates with by completing a Bugle minigame",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Bugle|"
+        },
+        {
+            "name": "Punch: Punch the killer",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Punch|"
+        },
+        {
+            "name": "Hotdog: Eat a hotdog while under half health",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Hotdog|"
+        },
+        {
+            "name": "Banana Peel: Have a killer slip on your peel",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Banana Peel|"
+        },
+        {
+            "name": "Block: Block an attack",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Block|"
+        },
+        {
+            "name": "Block: Block any attack near a teammate",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Block|"
+        },
+        {
+            "name": "Reroll: Complete the task of a rerolled ability",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Reroll|"
+        },
+        {
+            "name": "Dash: Dropkick the killer with your dash",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Dash|"
+        },
+        {
+            "name": "Pie: Throw Pie at the killer",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Pie|"
+        },
+        {
+            "name": "Taunt: Taunt the killer without being hit for its duration",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Taunt|"
+        },
+        {
+            "name": "Flashlight: Daze the killer with your flashlight",
+            "category": [
+                "Tasks"
+            ],
+            "requires": "|Flashlight|"
         }
     ]
 }
