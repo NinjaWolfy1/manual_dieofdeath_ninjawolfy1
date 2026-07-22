@@ -24,5 +24,8 @@
     },
     "S-Rank": {
         "yaml_option": ["s-rank_locations"]
+    },
+    "Synergy Checks": {
+        "yaml_option": ["separate_synergy_checks"]
     }
 }
