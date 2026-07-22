@@ -88,9 +88,9 @@
         {
             "name": "Never-Ending Shift",
             "category": [
-                "Achievements", "Completion"
+                "Achievements", "Completion", "Arcade"
             ],
-            "requires": ""
+            "requires": "{OptOne(Arcade Cabinets)}"
         },
         {
             "name": "I'm Just Saiyan': Win as the One Bounce",
@@ -158,9 +158,9 @@
         {
             "name": "Born Again: Rebirth Once on Sauce Clicker",
             "category": [
-                "Achievements", "Completion"
+                "Achievements", "Completion", "Arcade"
             ],
-            "requires": "{OptAll(|Progressive Rebirth|)}"
+            "requires": "{OptAll(|Arcade Cabinets| AND |Progressive Rebirth|)}"
         },
         {
             "name": "Biggest Threat In The Room",
@@ -216,7 +216,7 @@
             "category": [
                 "Achievements", "Challenge", "Arcade"
             ],
-            "requires": "{OptAll(|Progressive Rebirth:5|)}"
+            "requires": "{OptAll(|Arcade Cabinets| AND |Progressive Rebirth:5|)}"
         },
         {
             "name": "3-POINTER",
@@ -237,7 +237,7 @@
             "category": [
                 "Achievements", "Challenge", "Arcade"
             ],
-            "requires": ""
+            "requires": "{OptOne(Arcade Cabinets)}"
         },
         {
             "name": "Lucid Nightmare: Block Evil Scary",

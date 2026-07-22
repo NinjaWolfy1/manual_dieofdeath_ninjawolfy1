@@ -160,9 +160,16 @@
         {
             "name": "Progressive Rebirth",
             "category": [
-                "Sauce Simulator"
+                "Sauce Simulator", "Arcade"
             ],
             "count": 10,
+            "progression": true
+        },
+        {
+            "name": "Arcade Cabinets",
+            "category": [
+                "Arcade"
+            ],
             "progression": true
         }
     ]
