@@ -154,6 +154,14 @@
                 "Traps"
             ],
             "trap": true
+        },
+        {
+            "name": "Progressive Rebirth",
+            "category": [
+                "Sauce Simulator"
+            ],
+            "count": 10,
+            "progression": true
         }
     ]
 }
