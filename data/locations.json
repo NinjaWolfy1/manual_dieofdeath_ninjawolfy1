@@ -2,6 +2,14 @@
 	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
     "data": [
         {
+            "name": "Win as Every Killer and Ability",
+            "category": [
+                "Goal"
+            ],
+            "victory": true,
+            "requires": "|@Killers:ALL| AND |@Civilian Abilities: ALL|"
+        },
+        {
             "name": "Purchase Artful",
             "category": [
                 "Shop", "Killers"
@@ -872,70 +880,70 @@
         {
             "name": "Sauce Simulator Rebirth 1",
             "category": [
-                "Sauce Simulator", "Rebirth Checks"
+                "Sauce Simulator", "Rebirth Checks", "Arcade"
             ],
             "requires": "|Progressive Rebirth|"
         },
         {
             "name": "Sauce Simulator Rebirth 2",
             "category": [
-                "Sauce Simulator", "Rebirth Checks"
+                "Sauce Simulator", "Rebirth Checks", "Arcade"
             ],
             "requires": "|Progressive Rebirth:2|"
         },
         {
             "name": "Sauce Simulator Rebirth 3",
             "category": [
-                "Sauce Simulator", "Rebirth Checks"
+                "Sauce Simulator", "Rebirth Checks", "Arcade"
             ],
             "requires": "|Progressive Rebirth:3|"
         },
         {
             "name": "Sauce Simulator Rebirth 4",
             "category": [
-                "Sauce Simulator", "Rebirth Checks"
+                "Sauce Simulator", "Rebirth Checks", "Arcade"
             ],
             "requires": "|Progressive Rebirth:4|"
         },
         {
             "name": "Sauce Simulator Rebirth 5",
             "category": [
-                "Sauce Simulator", "Rebirth Checks"
+                "Sauce Simulator", "Rebirth Checks", "Arcade"
             ],
             "requires": "|Progressive Rebirth:5|"
         },
         {
             "name": "Sauce Simulator Rebirth 6",
             "category": [
-                "Sauce Simulator", "Rebirth Checks"
+                "Sauce Simulator", "Rebirth Checks", "Arcade"
             ],
             "requires": "|Progressive Rebirth:6|"
         },
         {
             "name": "Sauce Simulator Rebirth 7",
             "category": [
-                "Sauce Simulator", "Rebirth Checks"
+                "Sauce Simulator", "Rebirth Checks", "Arcade"
             ],
             "requires": "|Progressive Rebirth:7|"
         },
         {
             "name": "Sauce Simulator Rebirth 8",
             "category": [
-                "Sauce Simulator", "Rebirth Checks"
+                "Sauce Simulator", "Rebirth Checks", "Arcade"
             ],
             "requires": "|Progressive Rebirth:8|"
         },
         {
             "name": "Sauce Simulator Rebirth 9",
             "category": [
-                "Sauce Simulator", "Rebirth Checks"
+                "Sauce Simulator", "Rebirth Checks", "Arcade"
             ],
             "requires": "|Progressive Rebirth:9|"
         },
         {
             "name": "Sauce Simulator Rebirth 10",
             "category": [
-                "Sauce Simulator", "Rebirth Checks"
+                "Sauce Simulator", "Rebirth Checks", "Arcade"
             ],
             "requires": "|Progressive Rebirth:10|"
         }
