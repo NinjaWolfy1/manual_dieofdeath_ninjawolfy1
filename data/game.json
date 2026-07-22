@@ -5,42 +5,29 @@
   "filler_item_name": "Cosmetic",
   "starting_items": [
     {
-      "items": [
-        "Ryu",
-        "Akuma"
-      ]
+      "item_categories": [
+        "Civilian Abilities"
+      ],
+      "random": 2
     },
     {
       "item_categories": [
-        "Left Side"
+        "Killers"
       ],
-      "random": 1
-    },
-    {
-      "items": [
-        "Wolverine",
-        "Storm",
-        "Phoenix"
-      ],
-      "random": 1
-    },
-    {
-      "item_categories": [
-        "Trash"
+      "random": 1,
+      "yaml_option": [
+        "start_with_killer"
       ]
     },
     {
-      "random": 3
-    },
-    {
       "items": [
-        "Deadpool"
+        "Arcade Cabinets"
       ],
       "yaml_option": [
-        "start_with_deadpool"
+        "start_with_arcade_cabinets"
       ]
     }
   ],
-  "death_link": false,
+  "death_link": true,
   "starting_index": 1
 }
