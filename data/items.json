@@ -140,6 +140,20 @@
                 "Killers"
             ],
             "progression": true
+        },
+        {
+            "name": "Desktop Domb Trap",
+            "category": [
+                "Traps"
+            ],
+            "trap": true
+        },
+        {
+            "name": "Automatic Deck Selection Trap",
+            "category": [
+                "Traps"
+            ],
+            "trap": true
         }
     ]
 }
