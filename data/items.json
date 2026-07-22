@@ -168,7 +168,7 @@
         {
             "name": "Arcade Cabinets",
             "category": [
-                "Arcade"
+                "Arcade", "Arcade Cabinets"
             ],
             "progression": true
         }

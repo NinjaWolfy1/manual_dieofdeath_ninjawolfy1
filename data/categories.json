@@ -1,9 +1,28 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
-    "Example Logic only category": {
+    "Abilities": {
         "hidden": true
     },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
+    "Arcade": {
+        "yaml_option": ["include_arcade_checks"]
+    },
+    "Arcade Cabinets": {
+        "yaml_option": ["randomize_arcade_cabinets"],
+        "hidden": true
+    },
+    "Sauce Simulator": {
+        "yaml_option": ["saucesanity"]
+    },
+    "Special Round": {
+        "yaml_option": ["include_special_gamemodes"]
+    },
+    "Hard": {
+        "yaml_option": ["enable_hard_locations"]
+    },
+    "Tasks": {
+        "yaml_option": ["tasksanity"]
+    },
+    "S-Rank": {
+        "yaml_option": ["s-rank_locations"]
     }
 }
