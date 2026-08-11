@@ -181,7 +181,567 @@
             "progression": true
         },
         {
-            "name": "",
+            "name": "Tix",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "ROBLOX",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Colon Tree",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Cheezburger",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "BloxyCola",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Retro Stud",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Dog Bone",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Chair",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Pawn",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Egg",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Truss",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "SteamSad",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "SteamHappy",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Double Cheezburger",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Awesome",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Robux",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Superball",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Star",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Cheese",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Hotdog",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Bloxiade",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Cat",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Dog",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Bunny",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Paint Bucket",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Keychain",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Frog",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Human",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Monster",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Familiar Bee",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Eyeball",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Retro",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Vinyl",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Chains",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Egg Carton",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Diamond",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Eyes",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "SFOTH",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Lua",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Question Mark",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Rose",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Alpaca",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Glaggle",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Mushroom",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Ugly Thing",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Beacon",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Lil' Quot",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Pathgiver",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Awesomer",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Domo",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Teapot",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Rubber Chiken",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "BunnyFreaker",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Subspace Tripmine",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Taro",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Air Conditioner",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Facegiver",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Music Note",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Belt",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Earth",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Awesomest",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Tac Nayn",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Nyan Cat",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Planks",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Kick Me",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "FL Studio",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Stratobloxxer",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Lil' Suer",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Silly Guitar",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Missing Award",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Skateboard",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Chainlatch",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Frontstab",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Keytar",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Spiders",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Gridiron Guitar",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Leek",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Sewage Pipes",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Checkered Belt",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Tripmine Cage",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Television",
             "category": [
                 "Charms"
             ],
