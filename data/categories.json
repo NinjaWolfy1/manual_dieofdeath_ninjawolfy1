@@ -28,5 +28,8 @@
     "Synergy Checks": {
         "yaml_option": ["separate_synergy_checks"],
         "hidden": true
+    },
+    "Charmsanity": {
+        "yaml_option": ["charmsanity"]
     }
 }

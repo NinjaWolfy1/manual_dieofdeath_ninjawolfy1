@@ -171,6 +171,21 @@
                 "Arcade", "Arcade Cabinets"
             ],
             "progression": true
+        },
+        {
+            "name": "Progressive Charm Shop",
+            "count": 9,
+            "category": [
+                "Charms", "Charmsanity"
+            ],
+            "progression": true
+        },
+        {
+            "name": "",
+            "category": [
+                "Charms"
+            ],
+            "filler": true
         }
     ]
 }

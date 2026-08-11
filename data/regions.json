@@ -1,18 +1,53 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
-    "ExampleRegion":{
-        "connects_to": ["Second Region"],
-        "requires": "|Ryu| or {YamlCompare(Example_Range >= example )}",
+    "Lobby": {
+        "connects_to": ["Charm Shop Region 1"],
+        "requires": "",
         "starting": true
     },
-    "Second Region": {
-        "requires": "|@Characters:1|",
-        "connects_to": ["Third Region"],
-        "exit_requires": {
-            "Third Region": "|@Characters:5|"
-        }
+    "Charm Shop Region 1": {
+        "category": "Charmsanity",
+        "connects_to": ["Charm Shop Region 2"],
+        "requires": "|Progressive Charm Shop|"
     },
-    "Third Region": {
-        "connects_to": []
+    "Charm Shop Region 2": {
+        "category": "Charmsanity",
+        "connects_to": ["Charm Shop Region 3"],
+        "requires": "|Progressive Charm Shop:2|"
+    },
+    "Charm Shop Region 3": {
+        "category": "Charmsanity",
+        "connects_to": ["Charm Shop Region 4"],
+        "requires": "|Progressive Charm Shop:3|"
+    },
+    "Charm Shop Region 4": {
+        "category": "Charmsanity",
+        "connects_to": ["Charm Shop Region 5"],
+        "requires": "|Progressive Charm Shop:4|"
+    },
+    "Charm Shop Region 5": {
+        "category": "Charmsanity",
+        "connects_to": ["Charm Shop Region 6"],
+        "requires": "|Progressive Charm Shop:5|"
+    },
+    "Charm Shop Region 6": {
+        "category": "Charmsanity",
+        "connects_to": ["Charm Shop Region 7"],
+        "requires": "|Progressive Charm Shop:6|"
+    },
+    "Charm Shop Region 7": {
+        "category": "Charmsanity",
+        "connects_to": ["Charm Shop Region 8"],
+        "requires": "|Progressive Charm Shop:7|"
+    },
+    "Charm Shop Region 8": {
+        "category": "Charmsanity",
+        "connects_to": ["Charm Shop Region 9"],
+        "requires": "|Progressive Charm Shop:8|"
+    },
+    "Charm Shop Region 9": {
+        "category": "Charmsanity",
+        "connects_to": [],
+        "requires": "|Progressive Charm Shop:9|"
     }
 }

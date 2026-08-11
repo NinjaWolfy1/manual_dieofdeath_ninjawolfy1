@@ -90,7 +90,7 @@
             "default": false,
             "group": "Randomization Options"
         },
-        "include_arcade_checks":{
+        "include_arcade_checks": {
             "display_name": "Enable Arcade Checks",
             "description": [
                 "Adds locations for getting achievements in Sauce Simulator and One Night at Dobo's"
@@ -99,7 +99,7 @@
             "default": false,
             "group": "Randomization Options"
         },
-        "randomize_arcade_cabinets":{
+        "randomize_arcade_cabinets": {
             "display_name": "Randomize Arcade Cabinets",
             "description": [
                 "Randomizes Arcade Cabinets into the item pool.",
@@ -109,11 +109,21 @@
             "default": true,
             "group": "Randomization Options"
         },
-        "saucesanity":{
+        "saucesanity": {
             "display_name": "Saucesanity",
             "description": [
                 "Adds checks for each rebirth in Saucesanity.",
                 "Each rebirth now requires a Progressive Rebirth."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Randomization Options"
+        },
+        "charmsanity": {
+            "display_name": "Charmsanity",
+            "description": [
+                "Adds checks for each charm purchase unlocked by default.",
+                "The only exceptions are the Charms of Blockiness, Bighead, and Roundness."
             ],
             "type": "Toggle",
             "default": false,
