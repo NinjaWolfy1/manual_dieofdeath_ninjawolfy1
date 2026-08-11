@@ -12,13 +12,19 @@
             "hidden": false
         },
         "death_link": {
+            "display_name": "Death Link",
             "default": false
         },
         "filler_traps": {
+            "display_name": "Filler Trap Percentage",
             "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
             "values": {
                 "recommended": 20
-            }
+            },
+            "type": "Range",
+            "range_start": 0,
+            "range_end": 100,
+            "default": 20
         }
     },
     "user": {
@@ -26,57 +32,91 @@
             "type": "Toggle",
             "default": true
         },
-        "Example_Toggle":{
+        "start_with_killer": {
+            "display_name": "Start with Killer",
             "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "When enabled, you begin the randomizer with a random killer."
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Example Options"
+            "group": "Randomization Options"
         },
-        "Example_Choice":{
-            "type": "Choice",
+        "enable_hard_locations": {
+            "display_name": "Enable Hard Locations",
             "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
+                "Includes checks that are deemed incredibly difficult.",
+                "Hard Checks include: I'm Just Saiyan', Double or Nothing, Spec-Tater, Combat Medic, Deep Dive, and Every DoD YouTuber Be Like."
             ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
-        },
-        "Example_Range":{
-            "type": "Range",
-            "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
-            ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 5,
-            "values": {"example": 2},
-            "group": "Example Options"
-        },
-
-        "DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
             "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
+            "default": false,
+            "group": "Randomization Options"
+        },
+        "tasksanity": {
+            "display_name": "Tasksanity",
+            "description": [
+                "Adds checks for completing each civilian task."
             ],
-            "default": true
+            "type": "Toggle",
+            "default": true,
+            "group": "Randomization Options"
+        },
+        "s-rank_checks": {
+            "display_name": "S-rank Checks",
+            "description": [
+                "Adds checks for S-ranking as each Civilian Ability and Killer."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Randomization Options"
+        },
+        "separate_synergy_checks": {
+            "display_name": "Separate Synergy Checks",
+            "description": [
+                "When enabled, adds checks for winning and S-ranking (if enabled) as each Synergy.",
+                "It is up to you to decide if winning as a synergy does not count for its base abilities' checks."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Randomization Options"
+        },
+        "include_special_gamemodes": {
+            "display_name": "Include Special Gamemodes",
+            "description": [
+                "Adds checks that involve the special gamemodes.",
+                "Warning: These checks might take a long time to get."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Randomization Options"
+        },
+        "include_arcade_checks":{
+            "display_name": "Enable Arcade Checks",
+            "description": [
+                "Adds locations for getting achievements in Sauce Simulator and One Night at Dobo's"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Randomization Options"
+        },
+        "randomize_arcade_cabinets":{
+            "display_name": "Randomize Arcade Cabinets",
+            "description": [
+                "Randomizes Arcade Cabinets into the item pool.",
+                "Arcade Cabinets will need to be found before you can do checks related to the arcade games."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Randomization Options"
+        },
+        "saucesanity":{
+            "display_name": "Saucesanity",
+            "description": [
+                "Adds checks for each rebirth in Saucesanity.",
+                "Each rebirth now requires a Progressive Rebirth."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Randomization Options"
         }
     }
-
 }

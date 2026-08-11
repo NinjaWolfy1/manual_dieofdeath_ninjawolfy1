@@ -1,6 +1,6 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
-    "Abilities": {
+    "Civilian Abilities": {
         "hidden": true
     },
     "Arcade": {
@@ -23,7 +23,7 @@
         "yaml_option": ["tasksanity"]
     },
     "S-Rank": {
-        "yaml_option": ["s-rank_locations"]
+        "yaml_option": ["s-rank_checks"]
     },
     "Synergy Checks": {
         "yaml_option": ["separate_synergy_checks"],
