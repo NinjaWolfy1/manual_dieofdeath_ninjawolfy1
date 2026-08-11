@@ -243,7 +243,7 @@
         {
             "name": "Help Wanted: Beat 4/25",
             "category": [
-                "Achievements", "Challenge", "Arcade"
+                "Achievements", "Challenge", "Arcade", "Hard"
             ],
             "requires": "{OptOne(Arcade Cabinets)}"
         },

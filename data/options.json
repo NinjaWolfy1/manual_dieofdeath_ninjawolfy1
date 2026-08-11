@@ -45,7 +45,8 @@
             "display_name": "Enable Hard Locations",
             "description": [
                 "Includes checks that are deemed incredibly difficult.",
-                "Hard Checks include: I'm Just Saiyan', Double or Nothing, Spec-Tater, Combat Medic, Deep Dive, and Every DoD YouTuber Be Like."
+                "Hard Checks include: ",
+                "I'm Just Saiyan', Double or Nothing, Help Wanted, Spec-Tater, Combat Medic, Deep Dive, and Every DoD YouTuber Be Like."
             ],
             "type": "Toggle",
             "default": false,
