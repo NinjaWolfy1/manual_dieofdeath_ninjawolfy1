@@ -946,6 +946,735 @@
                 "Sauce Simulator", "Rebirth Checks", "Arcade"
             ],
             "requires": "|Progressive Rebirth:10|"
+        },
+        {
+            "name": "Purchase Charm Tix",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 1",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm ROBLOX",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 1",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Colon Tree",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 1",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Cheezburger",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 1",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm BloxyCola",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 1",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Retro Stud",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 1",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Dog Bone",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 1",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Chair",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 1",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Pawn",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 1",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Egg",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 2",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Truss",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 2",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm SteamSad",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 2",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm SteamHappy",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 2",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Double Cheezburger",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 2",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Awesome",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 2",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Robux",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 2",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Superball",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 2",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Star",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 2",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Cheese",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 3",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Hotdog",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 3",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Bloxiade",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 3",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Cat",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 3",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Dog",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 3",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Bunny",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 3",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Paint Bucket",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 3",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Keychain",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 3",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Frog",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 3",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Human",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 4",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Monster",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 4",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Familiar Bee",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 4",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Eyeball",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 4",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Retro",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 4",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Vinyl",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 4",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Chains",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 4",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Egg Carton",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 4",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Diamond",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 4",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Eyes",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 5",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm SFOTH",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 5",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Lua",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 5",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Question Mark",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 5",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Rose",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 5",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Alpaca",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 5",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Glaggle",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 5",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Mushroom",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 5",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Ugly Thing",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 5",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Beacon",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 6",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Lil' Quot",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 6",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Pathgiver",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 6",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Awesomer",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 6",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Domo",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 6",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Teapot",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 6",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Rubber Chiken",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 6",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm BunnyFreaker",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 6",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Subspace Tripmine",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 6",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Taro",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 7",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Air Conditioner",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 7",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Facegiver",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 7",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Music Note",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 7",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Belt",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 7",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Earth",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 7",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Awesomest",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 7",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Tac Nayn",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 7",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Nyan Cat",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 7",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Planks",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 8",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Kick Me",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 8",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm FL Studio",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 8",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Stratobloxxer",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 8",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Lil' Suer",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 8",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Silly Guitar",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 8",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Missing Award",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 8",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Skateboard",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 8",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Chainlatch",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 8",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Frontstab",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 9",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Keytar",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 9",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Spiders",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 9",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Gridiron Guitar",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 9",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Leek",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 9",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Sewage Pipes",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 9",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Checkered Belt",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 9",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Tripmine Cage",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 9",
+            "prehint": true,
+            "requires": ""
+        },
+        {
+            "name": "Purchase Charm Television",
+            "category": [
+                "Charmsanity"
+            ],
+            "region": "Charm Shop Region 9",
+            "prehint": true,
+            "requires": ""
         }
     ]
 }
